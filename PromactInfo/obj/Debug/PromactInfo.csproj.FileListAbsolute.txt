@@ -1,0 +1,6 @@
+D:\Promact\PromactInfo\bin\Debug\PromactInfo.exe.config
+D:\Promact\PromactInfo\bin\Debug\PromactInfo.exe
+D:\Promact\PromactInfo\bin\Debug\PromactInfo.pdb
+D:\Promact\PromactInfo\obj\Debug\PromactInfo.csprojAssemblyReference.cache
+D:\Promact\PromactInfo\obj\Debug\PromactInfo.exe
+D:\Promact\PromactInfo\obj\Debug\PromactInfo.pdb
